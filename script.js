@@ -85,7 +85,7 @@ setInterval(createHeart,1800);
       Welcome Message
 ========================== */
 
-console.log("Welcome Nadia ❤️");
+console.log("Welcome Selma ❤️");
 
 /*==============================
         Loader
@@ -178,7 +178,7 @@ setInterval(updateCounter,1000);
 
 const typingElement = document.getElementById("typing");
 
-const messageText = `يا نادية...
+const messageText = `يا سلمى...
 
 من أول مرة اتكلمنا فيها يوم 8 نوفمبر 2025،
 وأول وعد بينا يوم 12 ديسمبر 2025،
